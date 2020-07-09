@@ -1,22 +1,20 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: David
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+  last: Rohm
+about: Motivated Learner, Agressive Organizer  I seek to understand so that I can operate from a knowledgable position.
 position: Software Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1968
+  location: Virginia Beach, Virginia
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
+- company: AT&T
+  position: Sr. Data Analyst
+  timeperiod: since forever - 16 years
+  description: I've done business analysis using software.  I've worked at AT&T and learned many technologies
   website: https://example.com
 
 - company: Company B
@@ -30,14 +28,14 @@ experience:
   description: Making coffee and baking cookies.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
+- degree: Master of Business Administration
+  timeperiod: August 1997 - May 1999
+  description: Concentrations in Finance and Telecommications, University of Florida, Gainesville, FL
   website: https://example.com
 
 - degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+  timeperiod: March 1989 - December 1994
+  description: Metallurgy - Materials Science Engineering, University of Florida, Gainesville, FL
 
 # skill level goes 0 to 100
 skills:
@@ -57,8 +55,7 @@ skills:
   level: 70
 - name: Docker
   level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+knowledge: Also proficient in Adobe Photoshop and Illustrator
 
 projects:
 - name: best-resume-ever
@@ -68,11 +65,11 @@ projects:
   url: https://github.com/salomonelli/best-resume-ever
 
 hobbies:
-- name: Video Games
+- name: Playing Guitar
   iconClass: fa fa-gamepad
   url: https://example.com
 
-- name: Drawing
+- name: Soccer
   iconClass: fa fa-pencil
   url: https://example.com
 
@@ -82,12 +79,12 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: DaveRohm6@gmail.com
+  phone: (404) 270-0434
+  street: 2496 West Madison Dr
+  city: Atlanta
+  website: DaveRohm.com
+  github: Rummy222
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
